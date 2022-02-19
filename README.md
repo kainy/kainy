@@ -1,3 +1,3 @@
 # Hi, I'm GuoTao
 
-![Metrics](https://guotao.github.io/guotao/github-metrics.svg)
+![Metrics](http://guotao.kainy.cn/guotao/github-metrics.svg)
